@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px ;
+    padding: 0px;
+}
+/* """"" *Menu css start* """" */
+#menu
+{
+    background-color: #1B2434;
+    color: #fff;
+}
+
+.menu-item a
+{
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+}
+.logo img
+{
+    margin-bottom: 10px;
+}
+.logo span
+{
+    font-size: 24px;
+    font-weight: 700;
+}
+.menu-item a:hover
+{
+     color: #08b5f9;
+}
+.menu-icon a
+{
+    padding: 0px 10px;
+    color: #fff;
+}
+.menu-icon a:hover
+{
+    color: #08b5f9;
+}
+/* """"" *Menu css end* """" */
